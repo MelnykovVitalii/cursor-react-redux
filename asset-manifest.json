@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/cursor-react-redux/static/css/main.a617e044.chunk.css",
-    "main.js": "/cursor-react-redux/static/js/main.6c75cd33.chunk.js",
-    "main.js.map": "/cursor-react-redux/static/js/main.6c75cd33.chunk.js.map",
-    "runtime-main.js": "/cursor-react-redux/static/js/runtime-main.d89a481f.js",
-    "runtime-main.js.map": "/cursor-react-redux/static/js/runtime-main.d89a481f.js.map",
-    "static/js/2.c14f9966.chunk.js": "/cursor-react-redux/static/js/2.c14f9966.chunk.js",
-    "static/js/2.c14f9966.chunk.js.map": "/cursor-react-redux/static/js/2.c14f9966.chunk.js.map",
-    "static/js/3.237f483f.chunk.js": "/cursor-react-redux/static/js/3.237f483f.chunk.js",
-    "static/js/3.237f483f.chunk.js.map": "/cursor-react-redux/static/js/3.237f483f.chunk.js.map",
+    "main.css": "/cursor-react-redux/static/css/main.aa2d55c8.chunk.css",
+    "main.js": "/cursor-react-redux/static/js/main.094a72d6.chunk.js",
+    "main.js.map": "/cursor-react-redux/static/js/main.094a72d6.chunk.js.map",
+    "runtime-main.js": "/cursor-react-redux/static/js/runtime-main.01677fc4.js",
+    "runtime-main.js.map": "/cursor-react-redux/static/js/runtime-main.01677fc4.js.map",
+    "static/js/2.5d1498f0.chunk.js": "/cursor-react-redux/static/js/2.5d1498f0.chunk.js",
+    "static/js/2.5d1498f0.chunk.js.map": "/cursor-react-redux/static/js/2.5d1498f0.chunk.js.map",
+    "static/js/3.465b26d5.chunk.js": "/cursor-react-redux/static/js/3.465b26d5.chunk.js",
+    "static/js/3.465b26d5.chunk.js.map": "/cursor-react-redux/static/js/3.465b26d5.chunk.js.map",
     "index.html": "/cursor-react-redux/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/cursor-react-redux/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.c14f9966.chunk.js.LICENSE.txt": "/cursor-react-redux/static/js/2.c14f9966.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cursor-react-redux/static/media/logo.6ce24c58.svg"
+    "static/css/main.aa2d55c8.chunk.css.map": "/cursor-react-redux/static/css/main.aa2d55c8.chunk.css.map",
+    "static/js/2.5d1498f0.chunk.js.LICENSE.txt": "/cursor-react-redux/static/js/2.5d1498f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d89a481f.js",
-    "static/js/2.c14f9966.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.6c75cd33.chunk.js"
+    "static/js/runtime-main.01677fc4.js",
+    "static/js/2.5d1498f0.chunk.js",
+    "static/css/main.aa2d55c8.chunk.css",
+    "static/js/main.094a72d6.chunk.js"
   ]
 }
